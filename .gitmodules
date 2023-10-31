@@ -1,0 +1,6 @@
+[submodule "Summary"]
+	path = Summary
+	url = https://github.com/DaoNgocHoa/Summary.git
+[submodule "newstalker"]
+	path = newstalker
+	url = https://github.com/cycastic-cumberland/newstalker.git
